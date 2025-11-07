@@ -74,3 +74,18 @@ While there are more commands within Zensical, there is only one commanded neede
 ## Pushing your changes
 
 Once you've finished editing or adding to the documentation, it's time to submit your code.
+
+First create the commit with a commit message. The message should be brief but explain generally what was changed.
+
+```
+git add .
+git commit -m "Added git comamnds to How To Contribute"
+```
+
+Then push to your branch.
+
+```
+git push
+```
+
+Now you can create a pull request on the [Github Website](https://github.com/Mark-Prime/TF2-Recording-Wiki/compare).
