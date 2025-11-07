@@ -9,6 +9,7 @@
 [project]
 repo_url = "https://github.com/Mark-Prime/TF2-Recording-Wiki"
 repo_name = "Mark-Prime/TF2-Recording-Wiki"
+edit_uri = "edit/main/docs/"
 
 # The site_name is shown in the page header and the browser window title
 #
@@ -55,7 +56,6 @@ Copyright &copy; 2025 The authors
 # Section for configuring theme options
 # ----------------------------------------------------------------------------
 [project.theme]
-
 # change this to "classic" to use the traditional Material for MkDocs look.
 #variant = "classic"
 
@@ -230,6 +230,8 @@ features = [
     # always rendered as part of the navigation sidebar on the left.
     # https://zensical.org/docs/setup/navigation/#navigation-integration
     #"toc.integrate"
+    "content.action.edit", # Edit this page
+    "content.action.view"  # View source of this page
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize

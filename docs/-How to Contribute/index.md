@@ -19,21 +19,21 @@ The code is visible and accessible within it's :fontawesome-brands-github: [Gith
 
 Find where you would like to place the files and run the following command to clone the repository.
 
-```
+```cli
 gh repo clone Mark-Prime/TF2-Recording-Wiki
 ```
 
 Next create a branch.
 Make the name relavant to the change.
 
-```
+```cli
 git branch NAME
 git checkout NAME
 ```
 
 Alternatively:
 
-```
+```cli
 git checkout -b NAME
 ```
 
@@ -77,14 +77,14 @@ Once you've finished editing or adding to the documentation, it's time to submit
 
 First create the commit with a commit message. The message should be brief but explain generally what was changed.
 
-```
+```cli
 git add .
 git commit -m "Added git comamnds to How To Contribute"
 ```
 
 Then push to your branch.
 
-```
+```cli
 git push
 ```
 

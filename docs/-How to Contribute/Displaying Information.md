@@ -23,7 +23,7 @@ icon: lucide/book-open-text
 > Go to [documentation](https://zensical.org/docs/authoring/admonitions/#collapsible-blocks)
 
 ??? info "Click to expand for more info"
-    
+
     This content is hidden until you click to expand it.
     Great for FAQs or long explanations.
 
@@ -38,7 +38,7 @@ def greet(name):
 greet("Python")
 ```
 
-1.  > Go to [documentation](https://zensical.org/docs/authoring/code-blocks/#code-annotations)
+1. > Go to [documentation](https://zensical.org/docs/authoring/code-blocks/#code-annotations)
 
     Code annotations allow to attach notes to lines of code.
 
@@ -83,7 +83,6 @@ Hover it, to see a tooltip.
 
 [^1]: This is the footnote.
 
-
 ## Formatting
 
 > Go to [documentation](https://zensical.org/docs/authoring/formatting/)
@@ -99,11 +98,11 @@ Hover it, to see a tooltip.
 
 > Go to [documentation](https://zensical.org/docs/authoring/icons-emojis/)
 
-* :sparkles: `:sparkles:`
-* :rocket: `:rocket:`
-* :tada: `:tada:`
-* :memo: `:memo:`
-* :eyes: `:eyes:`
+- :sparkles: `:sparkles:`
+- :rocket: `:rocket:`
+- :tada: `:tada:`
+- :memo: `:memo:`
+- :eyes: `:eyes:`
 
 ## Maths
 
@@ -140,10 +139,10 @@ $$
 
 > Go to [documentation](https://zensical.org/docs/authoring/lists/#using-task-lists)
 
-* [x] Install Zensical
-* [x] Configure `zensical.toml`
-* [x] Write amazing documentation
-* [ ] Deploy anywhere
+- [x] Install Zensical
+- [x] Configure `zensical.toml`
+- [x] Write amazing documentation
+- [ ] Deploy anywhere
 
 ## Tooltips
 
