@@ -12,10 +12,10 @@ Let's break down what that looks like.
 
 !!! Prerequisites
 
-    Must have git installed.
+    Must have :fontawesome-brands-git: installed.
     Can be installed through the [git website](https://git-scm.com/install/).
 
-The code is visible and accessible within it's [Github Repository](https://github.com/Mark-Prime/TF2-Recording-Wiki).
+The code is visible and accessible within it's :fontawesome-brands-github: [Github Repository](https://github.com/Mark-Prime/TF2-Recording-Wiki).
 
 Find where you would like to place the files and run the following command to clone the repository.
 
@@ -59,6 +59,10 @@ It is nice to have but not strictly nessessary to contribute.
 
 The documentation here is built using Zensical. For full documentation visit [zensical.org](https://zensical.org/docs/).
 
+#### Installation
+
+Follow the [installation guide](https://zensical.org/docs/get-started/) on the Zensical website for your operating system.
+
 #### Starting Zensical Locally
 
 While there are more commands within Zensical, there is only one commanded needed to help contribute:
@@ -66,3 +70,7 @@ While there are more commands within Zensical, there is only one commanded neede
 * [`zensical serve`][serve] - Start local web server
   
   [serve]: https://zensical.org/docs/usage/preview/
+
+## Pushing your changes
+
+Once you've finished editing or adding to the documentation, it's time to submit your code.
